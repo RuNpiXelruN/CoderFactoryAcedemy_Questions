@@ -4,7 +4,7 @@
   * Justin Davidson
 
 ### 2. Some details!
-  * Portfolio Site: http://cfa-portfolio.herokuapp.com
+  * Portfolio Site: [Justin's Portfolio](http://cfa-portfolio.herokuapp.com "Justin's Portfolio Site :)")
   * Github: https://github.com/RuNpiXelruN
   * Stackoverflow: http://stackoverflow.com/users/5097493/runpixelrun
   * LinkedIn: https://au.linkedin.com/in/justin-davidson-01402486
