@@ -1,9 +1,8 @@
 # CoderFactoryAcedemy_Questions
 
-![alt text](https://github.com/RuNpiXelruN/CoderFactoryAcedemy_Questions/files/367674/JustinCVafCFA.pdf "Justin's CV")
-
 ### 1. Name
   * Justin Davidson
+  * ![Justin's CV](https://github.com/RuNpiXelruN/CoderFactoryAcedemy_Questions/files/367674/JustinCVafCFA.pdf "Justin's CV")
 
 ### 2. Some details!
   * Portfolio Site: [Justin's Portfolio](http://cfa-portfolio.herokuapp.com "Justin's Portfolio Site :)")
