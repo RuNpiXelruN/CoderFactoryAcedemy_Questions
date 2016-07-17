@@ -20,7 +20,7 @@ Hi! I'm Justin! I'm technical and creative, hard-working, eager and quick to lea
   * Finally a Diploma of Software Development from Coder Factory Academy, Sydney.
 
 ### 5. What are your career experiences?
-  * My background is medical. I have been a Radiographer for the past 13 years. I have worked in many large hospitals all over the world and actively sought training and mentor roles as I love teaching and passing on knowledge. I recognised early on that Radiography didn't allow me the creative freedom I wanted nor the technical difficulty. I studied a the Creative Arts(Film & TV production), which was a refreshing change, but like Radiography it soon became repetitive. My fiancé has her own company and has a suite of socially engaging digital products and it was here, chatting to the developers she used occasionally that I fell in love with coding. I love how technical and ever evolving it is. There is ALWAYS something to learn, and it is unique in that the more you learn and dive into the technically difficult concepts, the more creative it allows you to be. The perfect fit! I've been obsessed with coding since I started learning and love the many challenges that come with it.
+  * My background is medical. I have been a Radiographer for the past 13 years. I have worked in many large hospitals both here and overseas and have actively sought training and mentor roles as I love teaching and passing on knowledge. I recognised early on that Radiography didn't allow me the creative freedom I wanted nor the technical difficulty. I studied the Creative Arts(Film & TV production), which was a refreshing change, but like Radiography it soon became repetitive. My fiancé has her own company and has a suite of socially engaging digital products and it was here, chatting to the developers she occasionally used that I fell in love with coding. I love how technical and ever evolving it is. There is ALWAYS something to learn, and it is unique in that the more you learn and dive into the technically difficult concepts, the more creative it allows you to be. The perfect fit! I've been obsessed with coding since I started learning and love the many challenges that come with it.
 
 ### 6. Why have you decided to become a developer?
   * As above, in my previous roles I felt there was a definite ceiling that I had reached in terms of creativity and technical knowhow. Being a developer is an exciting space to work in as there will always be something new to learn or create.
@@ -43,10 +43,25 @@ Hi! I'm Justin! I'm technical and creative, hard-working, eager and quick to lea
 
 ### 12. What are you passionate about? (generally in life)
   * My gorgeous little family!
-  * Good beer, wine & whisky
-  * Good food
-  * Good coffee
   * Constantly learing and trying new things
+  * Good food, good coffee, good beer, wine & whisky
+  
 
 ### 13. Why are you passionate about tech?
-  * As earlier mentioned, it is ever evolving 
+  * As earlier mentioned, it is ever evolving and so there will always be something to learn. 
+  * It is I believe, a unique mix of the technical and creative fields in that the more technical you know, the more creative it allows you to be.
+
+### 14. Why would a company be lucky enough to have you as a developer on their team?
+  * Because I will throw myself at everything that is put in front of me. I am a fast learner, eager to learn, and if there is a concept I don't understand or that I am required to know I will go and make it a priorty to learn and understand it wholly. I am friendly and supportive and respect that everyone has their own way of working and learning. I'll be supportive of my colleagues and will have no trouble working as part of team towards a common goal. I have no ego and will ask a question should I have one and be forthcoming with an explanation should I undestand a concept a colleague does not. I believe we should be transparent when learning and that everyone has something to learn from somebody else. I am completely moldable and will not turn up with a 'this is how you do it' attitude. I am open to new techniques and frameworks.
+
+### 15. What is it about the Fast Track programme you are enjoying the most?
+  * The pace and the amount of content that is covered. The fast tract program has been challenging but doable.
+  * The large amount of mentors and speakers that have popped by for a chat
+  * I've enjoyed getting to know my fellow students all of who have vastly different backgrounds and work histories.
+  * Having experienced lecturers around for support and guidance.
+
+### 16. What parts of the Fast Track programme are you finding the most challenging?
+  * Probably the most challenging part of the fast track programme is also one of the most enjoyable, which is the pace and the amount of content that is covered.
+
+### 17. What is your ultimate dream once you graduate?
+  * To gain employment in an agency or company that is forward thinking in terms of development and emerging technologies. To be part of an agency or company that works accross multiple projects and products. To be part of a creative, driven team of developers and to continue to learn everyday.
