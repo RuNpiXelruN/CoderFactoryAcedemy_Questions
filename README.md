@@ -10,3 +10,6 @@
   * LinkedIn: https://au.linkedin.com/in/justin-davidson-01402486
   
 Hi! I'm Justin! I'm technical and creative, hard-working, eager and quick to learn, friendly and easy to get on with.
+
+### What have you done previously for work?
+  * Most recently I was hired by [Social Playground](https:/socialplayground.com.au "Social Playground's Website!") 
