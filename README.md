@@ -31,13 +31,13 @@ Hi! I'm Justin! I'm technical and creative, hard-working, eager and quick to lea
 
 ### 8. What do you look for when you want to work for a company?
   * I look for a company that is forward thinking in their approach to technology and development. A company that is willing to learn and try a new stack or framework should it seem a good fit. Simply a company that is creative and willing to try new things.
-  * I look for a company whos culture is condusive to learning, and who encourage their staff to continue to learn and be active members of the development community.
+  * I look for a company who's culture is conducive to learning, and who encourage their staff to continue to learn and be active members of the development community.
 
 ### 9. What gives you satisfaction in your work? Or what do you think will?
   * I get satisfaction from work when I am out of my comfort zone, when I am challenged and learning new things. I love working with like minded people, who are creative and driven, and supportive of each other.
 
 ### 10. Where have you lived, where would you like to live and why?
-  * I grew up in Newcastle, Australia and moved to Sydney after University. I've travelled and lived abroad for 4 years, based in the U.K but also lived in parts of South West France. I have lots of friends and family in Newcastle and it is always great to catch up with them all, but in saying that I am happy to work wherever a role will take me. Both Annabelle and I have travelled lots, and don't see moving to somewhere foreign an issue.
+  * I grew up in Newcastle, Australia and moved to Sydney after University. I've travelled and lived abroad for 4 years, based in the U.K but also lived in parts of South West France. I have lots of friends and family in Newcastle and it is always great to catch up with them all, but in saying that I am happy to work wherever a role will take me. Currently I'm happy calling Sydney home.
 
 ### 11. What do you do for fun?
   * We love good food, good wine and good coffee so most of our activities are driven by one of those three ha! In saying that, we have a beautiful 1yr old boy together called Sawyer who is getting more and more cheeky everyday, so spending time together playing with him is just the best!
